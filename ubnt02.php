@@ -7,4 +7,5 @@ $c = $a + $b;
 
 echo "a + b =".$c."\n";
 
+phpinfo();
 ?>
